@@ -1,0 +1,4 @@
+C:\Users\admin\Documents\ProtectLab№3-4\protectLab№3\protectLab№3\obj\Debug\net6.0\protectLab№3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\ProtectLab№3-4\protectLab№3\protectLab№3\obj\Debug\net6.0\protectLab№3.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\ProtectLab№3-4\protectLab№3\protectLab№3\obj\Debug\net6.0\protectLab№3.AssemblyInfo.cs
+C:\Users\admin\Documents\ProtectLab№3-4\protectLab№3\protectLab№3\obj\Debug\net6.0\protectLab№3.csproj.CoreCompileInputs.cache
