@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\bin\Debug\net6.0\Aaprogram.cs.exe
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\bin\Debug\net6.0\Aaprogram.cs.deps.json
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\bin\Debug\net6.0\Aaprogram.cs.runtimeconfig.json
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\bin\Debug\net6.0\Aaprogram.cs.dll
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\bin\Debug\net6.0\Aaprogram.cs.pdb
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\obj\Debug\net6.0\Aaprogram.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\obj\Debug\net6.0\Aaprogram.cs.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\obj\Debug\net6.0\Aaprogram.cs.AssemblyInfo.cs
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\obj\Debug\net6.0\Aaprogram.cs.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\obj\Debug\net6.0\Aaprogram.cs.dll
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\obj\Debug\net6.0\refint\Aaprogram.cs.dll
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\obj\Debug\net6.0\Aaprogram.cs.pdb
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\obj\Debug\net6.0\Aaprogram.cs.genruntimeconfig.cache
+C:\Users\admin\Documents\protectLab№6\Aaprogram.cs\Aaprogram.cs\obj\Debug\net6.0\ref\Aaprogram.cs.dll
